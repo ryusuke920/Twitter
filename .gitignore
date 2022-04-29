@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 
 TwitterAPIKey.py
+tweet_texts.txt
+font/
+.DS_Store
